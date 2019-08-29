@@ -1,0 +1,7 @@
+C:\Users\Rasik Rana\Desktop\csharp\day3\DayThreeHomework\DayThreeHomework\bin\Debug\DayThreeHomework.exe.config
+C:\Users\Rasik Rana\Desktop\csharp\day3\DayThreeHomework\DayThreeHomework\bin\Debug\DayThreeHomework.exe
+C:\Users\Rasik Rana\Desktop\csharp\day3\DayThreeHomework\DayThreeHomework\bin\Debug\DayThreeHomework.pdb
+C:\Users\Rasik Rana\Desktop\csharp\day3\DayThreeHomework\DayThreeHomework\obj\Debug\DayThreeHomework.csprojAssemblyReference.cache
+C:\Users\Rasik Rana\Desktop\csharp\day3\DayThreeHomework\DayThreeHomework\obj\Debug\DayThreeHomework.csproj.CoreCompileInputs.cache
+C:\Users\Rasik Rana\Desktop\csharp\day3\DayThreeHomework\DayThreeHomework\obj\Debug\DayThreeHomework.exe
+C:\Users\Rasik Rana\Desktop\csharp\day3\DayThreeHomework\DayThreeHomework\obj\Debug\DayThreeHomework.pdb
